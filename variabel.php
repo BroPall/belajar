@@ -1,0 +1,10 @@
+<?php
+$nim   = "E41240027";
+$nama  = "Naufal Yafi Alifudin";
+$prodi = "Teknik Informatika";
+
+echo "Selamat Praktikum <br>";
+echo "$nim <br>";
+echo "$nama <br>";
+echo "$prodi <br>";
+?>
