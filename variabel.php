@@ -1,7 +1,7 @@
 <?php
 $nim   = "E41240027";
 $nama  = "Naufal Yafi Alifudin";
-$prodi = "Teknik Informatika";
+$prodi = "Teknik Informatikaaa";
 
 echo "Selamat Praktikum <br>";
 echo "$nim <br>";
